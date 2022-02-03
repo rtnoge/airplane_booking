@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869338281571",
+    "project_id": "airplane-book",
+    "storage_bucket": "airplane-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869338281571:android:22751ddbe5945c26216a56",
+        "android_client_info": {
+          "package_name": "com.rtnoge.airplane_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869338281571-sv4lnr507d25euc9jahrfm7dkng0a544.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869338281571-sv4lnr507d25euc9jahrfm7dkng0a544.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
